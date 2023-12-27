@@ -1,0 +1,97 @@
+{
+  "user": [
+    {
+      "fullName": "Mohamed Reda",
+      "email": "muhammedreda6@gmail.com",
+      "mobileNo": [
+        1282692075
+      ],
+      "address": {
+        "city": "portsaid",
+        "street": "123",
+        "postalCode": 22256
+      },
+      "password": "Mohred@2720",
+      "rePassword": "Mohred@2720",
+      "id": 1
+    },
+    {
+      "fullName": "Mohamed Reda Ibrahim Radwan",
+      "email": "muhammedreda6@gmail.com",
+      "mobileNo": [
+        1282692075
+      ],
+      "address": {
+        "city": "PortSaid",
+        "street": "Portsaid",
+        "postalCode": 8888
+      },
+      "password": "mohamed12345",
+      "rePassword": "mohamed12345",
+      "id": 2
+    },
+    {
+      "fullName": "Mayada",
+      "email": "mohamed@gmail.com",
+      "mobileNo": [
+        1282692075
+      ],
+      "address": {
+        "city": "PortSaid",
+        "street": "PortSaid",
+        "postalCode": 8888
+      },
+      "password": "mohamed12345",
+      "rePassword": "mohamed12345",
+      "id": 3
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Mobile"
+    },
+    {
+      "id": 2,
+      "name": "Laptop"
+    },
+    {
+      "id": 3,
+      "name": "TV"
+    }
+  ],
+  "Products": [
+    {
+      "id": 3,
+      "name": "Samsung",
+      "quantity": 1,
+      "price": 35000,
+      "img": "https://th.bing.com/th/id/R.687b67b295a34a5c5453ea203cb1cee6?rik=lndwLQXG2GGj5A&pid=ImgRaw&r=0",
+      "categoryId": 2
+    },
+    {
+      "id": 4,
+      "name": "Asus",
+      "quantity": 4,
+      "price": 35000,
+      "img": "https://th.bing.com/th/id/R.c1cc66422f40bdf635a727b36cea4cc1?rik=KzBcM%2fJ33LF4CQ&pid=ImgRaw&r=0",
+      "categoryId": 2
+    },
+    {
+      "id": 5,
+      "name": "Sharp",
+      "quantity": 2,
+      "price": 35000,
+      "img": "https://th.bing.com/th/id/R.22c9be1f92f73336fecbc8005d28812c?rik=TsbJB27ToODRxQ&pid=ImgRaw&r=0",
+      "categoryId": 3
+    },
+    {
+      "id": 6,
+      "name": "Samsung",
+      "quantity": 2,
+      "price": 35000,
+      "img": "https://th.bing.com/th/id/OIP.fTYb9aip5ispuQhQE_dE0AHaGk?pid=ImgDet&w=1000&h=887&rs=1",
+      "categoryId": 3
+    }
+  ]
+}
